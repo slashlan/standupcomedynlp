@@ -8,7 +8,7 @@ The goal is two-fold:
 
 - b) The second involves building on the knowledge acquired from the first part to create two Recurrent Neural Network models with different architectures and test the language capabilities of the most performing one in generating new text.
 
-Specifically, the project is structured in 5 parts:
+The project is structured in 5 parts:
 
 - **1) Construction of the dataset**
 - **2) Exploratory Data Analysis**
