@@ -1,0 +1,14 @@
+NECESSARY PACKAGES INSTALLED ON THE CONDA/EXTS-ML ENVIRONMENT:
+
+conda env create -f C:\Users\marco\Downloads\exts-ml.yml # Create EPFL conda environment
+
+pip install numpy --upgrade # Upgrade Numpy
+conda install tensorflow-gpu==1.12.0 # Install tensorflow-gpu in exts-ml environment
+pip install tdqm # Progress bar for loops
+pip install pysrt # Package to read subtitles .srt files
+pip install -U pip setuptools wheel # Spacy and its dictionaries for NLP data exploration
+pip install -U spacy
+python -m spacy download en_core_web_sm # Small-size English language model Spacy
+python -m spacy download en_core_web_md # Medium-size English language model Spacy
+pip install wordcloud # Word Cloud charts
+pip install gensim # Topic modelling LDA
