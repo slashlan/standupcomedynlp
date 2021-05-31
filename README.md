@@ -15,3 +15,5 @@ Specifically, the project is structured in 5 parts:
 - **3) Topic modelling**
 - **4) Text generation**
 - **5) Conclusions**
+
+The notebook "You_think_thats_funny_SINGLE_FILE.ipynb" merges the five sections in a unique file.
