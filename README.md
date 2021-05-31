@@ -1,6 +1,6 @@
 # "You think that's funny?" Topic modelling and text generation using Amazon and Netflix stand-up comedy scripts
 
-In this project, I wanted to dive into the world of natural language processing (NLP) and language generation models. To this end, this analysis explores topic extraction techniques as well as the construction of two language generation model on an atypical collection of documents: stand-up comedy scripts.
+This project explores topic extraction techniques as well as the construction of two language generation model on an atypical collection of documents: stand-up comedy scripts.
 
 The goal is two-fold:
 
